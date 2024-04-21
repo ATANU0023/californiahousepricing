@@ -11,3 +11,17 @@ create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+
+#### make sure u are inside the environment
+
+It's very important to install all the requirements write on the requirements.txt file
+
+```
+pip install requirements.txt
+```
+
+
+To run the webapplication run
+```
+python app.py
+```
